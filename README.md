@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Hacker News Client App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+And all components are exposed in [Storybook](https://www.storybook.js.org/).
 
 ## Available Scripts
 
@@ -13,6 +14,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
+
+### `yarn storybook`
+
+This will open storybook page where all components can be studied decoupled.
 
 ### `yarn test`
 
